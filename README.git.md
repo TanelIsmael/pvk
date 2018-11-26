@@ -1,4 +1,4 @@
-## GIT kasutamise meelespea
+## GIT kasutamise meelespea :+1:
 
 - git repo initsialiseerimine 
 `git init`
