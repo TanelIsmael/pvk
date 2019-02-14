@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="24d1b42d-633e-4757-bf7c-f3ec36f9bcfb" name="ikt" url="http://tanelismael.ikt.khk.ee">
+        <fileTransfer host="tanelismael.ikt.khk.ee" port="22" rootFolder="/home/tanelismaeliktkh" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
